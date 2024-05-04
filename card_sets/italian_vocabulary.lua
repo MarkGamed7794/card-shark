@@ -1,0 +1,32 @@
+return {
+    name = "Italian Vocabulary",
+    disable_repeats = true,
+    reversible = true,
+    cards = {
+        {front = "mela",     back = "apple"},
+        {front = "albero",   back = "tree"},
+        {front = "uomo",     back = "man"},
+        {front = "donna",    back = "woman"},
+        {front = "gato",     back = "cat"},
+        {front = "cane",     back = "dog"},
+        {front = "ragazzo",  back = "boy"},
+        {front = "ragazza",  back = "girl"},
+        {front = "piano",    back = "small",  alternate = {"tiny", "little"}},
+        {front = "grande",   back = "big",    alternate = {"large"}},
+        {front = "uno",      back = "one",    alternate = {"1"}},
+        {front = "due",      back = "two",    alternate = {"2"}},
+        {front = "tre",      back = "three",  alternate = {"3"}},
+        {front = "cappello", back = "hat"},
+        {front = "pantaloni",back = "pants"},
+        {front = "maglione", back = "sweater"},
+        {front = "taxi",     back = "taxi"},
+        {front = "aeroporto",back = "airport"},
+        {front = "autobus",  back = "bus"},
+        {front = "non",      back = "not",    alternate = {"no", "aren't", "are not"}},
+        {front = "oggi",     back = "today"},
+        {front = "fratello", back = "brother"},
+        {front = "nera",     back = "black"},
+        {front = "rossa",    back = "red"},
+        {front = "nuovo",    back = "new"}
+    }
+}
